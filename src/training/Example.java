@@ -5,5 +5,6 @@ public class Example {
     //The program begins from the main method//
     public static void main (String args[]) {
         System.out.println("This is the simplest Java-program");
+        //Something else.
     }
 }
