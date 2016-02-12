@@ -9,5 +9,6 @@ public class Example2 {
         num=num*2;
         System.out.print ("The var.num*2 equals:");
         System.out.println (num);
+        //Test
     }
 }
