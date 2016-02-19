@@ -11,7 +11,7 @@ public class ArrayDemo {
             System.out.println("Row number " + a);
 
                 for (b = 0; b < 5; b++){
-                    System.out.print(array[a][b] + " ");
+                    System.out.print(array[a][b] + " / ");
                 }
             System.out.println();
         }
