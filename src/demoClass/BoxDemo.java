@@ -1,9 +1,9 @@
 package demoClass;
-
 class Box {
-    int width;
-    int depth;
-    int height;
+   int width;
+   int depth;
+   int height;
+
     //Counting object's volume. Use in BoxDemo2.java, BoxForCat.java
     /*void volume(){
         System.out.print("The volume is ");
